@@ -1,0 +1,9 @@
+.circleci
+.github
+.husky
+.next
+.storybook
+
+node_modules
+public
+storybook

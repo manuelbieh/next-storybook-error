@@ -1,0 +1,9 @@
+.circleci/
+.github/
+.next/
+
+.DS_Store
+.vscode
+
+node_modules
+public
